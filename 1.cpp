@@ -9,3 +9,9 @@ public:
 private:
 	const char* m_name;
 };
+
+
+int main()
+{
+
+}
